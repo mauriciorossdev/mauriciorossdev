@@ -2,12 +2,16 @@
 <h3 align="center">A Senior Frontend developr from chile.</h3>
 <div>
   <p>See my projects Porfolio:</p>
-  </br>  
+  </br> 
+  <h4>Frontend</h4>
    <div>
     <a align="left" href="https://github.com/mauriciorossdev/front-mk-website">Marketing WebSite Front (NextJs, Tailwind and Strapi)</a>
    </br>
      <a align="left" href="https://github.com/mauriciorossdev/strapi-mk-website">Marketing WebSite Strapi (NextJs, Tailwind and Strapi)</a>
    </br>
+   </div>
+   <div>
+     <h4>Backend</h4>
      <a align="left" href="https://github.com/mauriciorossdev/location-chile">Location Chile - API (Nest JS), Swagger)</a>
    </div>
   </div>
