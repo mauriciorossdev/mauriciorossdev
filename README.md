@@ -13,7 +13,6 @@
    <div>
      <h4>Backend</h4>
      <a align="left" href="https://github.com/mauriciorossdev/location-chile">Location Chile - API (Nest JS, Swagger)</a> <strong>/</strong>
-     <a align="left" href="https://location-chile-production-8adb.up.railway.app/api/v1/">Demo</a>
    </div>
   </div>
   </br>
