@@ -3,21 +3,10 @@
 <div>
   <p>See my projects Porfolio:</p>
   </br> 
-  <h4>Frontend</h4>
-   <div>
-    <a align="left" href="https://github.com/mauriciorossdev/front-mk-website">Marketing WebSite Front (NextJs, Tailwind and Strapi)</a>
-   </br>
-     <a align="left" href="https://github.com/mauriciorossdev/strapi-mk-website">Marketing WebSite Strapi (NextJs, Tailwind and Strapi)</a>
-   </br>
-   </div>
-   <div>
-     <h4>Backend</h4>
-     <a align="left" href="https://github.com/mauriciorossdev/location-chile">Location Chile - API (Nest JS, Swagger)</a> <strong>/</strong>
-   </div>
-  </div>
+  <a href="https://github.com/mauriciorossdev/openlauncher">Open Launcher</a>
+  <p>App for desktop to talk with your Harness (Claude, cursor, opencode, others)</p>
+
   </br>
-  </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauriciorossdev&label=Profile%20views&color=0e75b6&style=flat" alt="mauriciorossdev" /> </p>
 
 - 💬 Ask me about **Next Js, React Js, Nest Js, Typescript**
 
